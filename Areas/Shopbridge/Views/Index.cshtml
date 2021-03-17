@@ -1,0 +1,98 @@
+﻿@model ShopBridgeDAL.Inventory.Models.getInventoryList;
+@using ShopBridgeDAL.Inventory.Models;
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Inventory";
+}
+
+<h1 style="text-align:center">Inventory</h1>
+<div style="text-align:center">
+    <label id="header">Add Inventory</label>
+    <div id="addeditinventory">
+        <form method="post" id="frmSave" enctype="multipart/form-data" asp-action="Save" asp-controller="Home">
+            @if (TempData["successMessage"] != null)
+            {
+                <div>
+                    <strong>Success!</strong> @TempData["successMessage"]
+                </div>
+            }
+            <input type="hidden" id="inventoryId" asp-for="inId" />
+            <table align="center">
+                <tr>
+                    <td>Name:</td>
+                    <td>
+                        <input type="text" asp-for="Name" />
+                        <span asp-validation-for="Name" style="color:red"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Description:</td>
+                    <td>
+                        <textarea rows="3" cols="10" asp-for="Description"></textarea>
+                        <span asp-validation-for="Description" style="color:red"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Price:</td>
+                    <td>
+                        <input type="text" asp-for="Price" />
+                        <span asp-validation-for="Price" style="color:red"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Image:</td>
+                    <td>
+                        <input type="file" accept="image/*" asp-for="ProdImage" />
+                        <span asp-validation-for="ProdImage" style="color:red"></span>
+                        <img id="ImgPreview" width="100px" />
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="center">
+                        <button type="submit">Save</button>
+                        <button type="button" onclick="Reset();">Cancel</button>
+                    </td>
+                </tr>
+            </table>
+        </form>
+        <div style="padding-top:20px">
+            <h3>Inventory List</h3>
+            <table align="center" border="1" cellpadding="1" cellspacing="1" width="100%">
+                <tr>
+                    <th>Name</th>
+                    <th>Price</th>
+                    <th>Image</th>
+                    <th>Action</th>
+                </tr>
+                <tbody>
+                    @if (Model.loInventry != null && Model.loInventry.Count > 0)
+                    {
+                        foreach (Inventory item in Model.loInventry)
+                        {
+                            <tr id="@item.inId">
+                                <td>@item.Name</td>
+                                <td>@item.Price</td>
+                                <td><img width="100px" src="~/images/@item.stImage" /></td>
+                                <td>
+                                    <input type="hidden" id="hdnDesc_@item.inId" value="@item.Description" />
+                                    <input type="hidden" id="hdnName_@item.inId" value="@item.Name" />
+                                    <input type="hidden" id="hdnPrice_@item.inId" value="@item.Price" />
+                                    <a href="javascript:void(0);" onclick="editInventory(@item.inId, '@item.stImage');">Edit</a>
+                                    <a href="javascript:void(0);" onclick="deleteInventory(@item.inId);">Delete</a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr><td colspan="4">No records found</td></tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</div>
+@section Scripts {
+    <script src="~/Scripts/inventory.js"></script>
+}

@@ -1,0 +1,12 @@
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDAL\bin\Debug\net5.0\ShopBridgeDAL.deps.json
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDAL\bin\Debug\net5.0\ShopBridgeDAL.dll
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDAL\bin\Debug\net5.0\ref\ShopBridgeDAL.dll
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDAL\bin\Debug\net5.0\ShopBridgeDAL.pdb
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDAL\obj\Debug\net5.0\ShopBridgeDAL.csprojAssemblyReference.cache
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDAL\obj\Debug\net5.0\ShopBridgeDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDAL\obj\Debug\net5.0\ShopBridgeDAL.AssemblyInfoInputs.cache
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDAL\obj\Debug\net5.0\ShopBridgeDAL.AssemblyInfo.cs
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDAL\obj\Debug\net5.0\ShopBridgeDAL.csproj.CoreCompileInputs.cache
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDAL\obj\Debug\net5.0\ShopBridgeDAL.dll
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDAL\obj\Debug\net5.0\ref\ShopBridgeDAL.dll
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDAL\obj\Debug\net5.0\ShopBridgeDAL.pdb

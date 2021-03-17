@@ -1,0 +1,12 @@
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeLibrary\bin\Debug\net5.0\ShopBridgeLibrary.deps.json
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeLibrary\bin\Debug\net5.0\ShopBridgeLibrary.dll
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeLibrary\bin\Debug\net5.0\ref\ShopBridgeLibrary.dll
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeLibrary\bin\Debug\net5.0\ShopBridgeLibrary.pdb
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeLibrary\obj\Debug\net5.0\ShopBridgeLibrary.csprojAssemblyReference.cache
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeLibrary\obj\Debug\net5.0\ShopBridgeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeLibrary\obj\Debug\net5.0\ShopBridgeLibrary.AssemblyInfoInputs.cache
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeLibrary\obj\Debug\net5.0\ShopBridgeLibrary.AssemblyInfo.cs
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeLibrary\obj\Debug\net5.0\ShopBridgeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeLibrary\obj\Debug\net5.0\ShopBridgeLibrary.dll
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeLibrary\obj\Debug\net5.0\ref\ShopBridgeLibrary.dll
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeLibrary\obj\Debug\net5.0\ShopBridgeLibrary.pdb

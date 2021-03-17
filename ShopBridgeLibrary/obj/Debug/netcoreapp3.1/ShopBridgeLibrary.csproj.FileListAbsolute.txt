@@ -1,0 +1,4 @@
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeLibrary\obj\Debug\netcoreapp3.1\ShopBridgeLibrary.csprojAssemblyReference.cache
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeLibrary\obj\Debug\netcoreapp3.1\ShopBridgeLibrary.AssemblyInfoInputs.cache
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeLibrary\obj\Debug\netcoreapp3.1\ShopBridgeLibrary.AssemblyInfo.cs
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeLibrary\obj\Debug\netcoreapp3.1\ShopBridgeLibrary.csproj.CoreCompileInputs.cache

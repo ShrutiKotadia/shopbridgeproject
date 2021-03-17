@@ -1,0 +1,10 @@
+3/15/2021 12:26:22 AM	This log contains information about the import schema operation into project 'ShopBridgeDB' on computer 'DESKTOP-4IQNTNH' by user 'Shruti'.
+3/15/2021 12:26:22 AM	Deserializing model
+3/15/2021 12:26:22 AM	Resolving model
+3/15/2021 12:26:22 AM	Visiting imported model for types
+3/15/2021 12:26:23 AM	Scanning project for duplicate elements
+3/15/2021 12:26:23 AM	Finished duplicate element processing
+3/15/2021 12:26:24 AM	Processing extra files
+3/15/2021 12:26:24 AM	Finished importing Data-tier Application file.
+3/15/2021 12:26:24 AM	A summary of the import was saved to the following location: C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDB\Import Schema Logs\ShopBridgeDB_20210314065622.log
+3/15/2021 12:26:24 AM	Click Finish to continue...

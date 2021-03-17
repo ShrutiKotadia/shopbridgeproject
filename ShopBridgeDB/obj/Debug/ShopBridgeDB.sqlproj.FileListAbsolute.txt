@@ -1,0 +1,9 @@
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDB\bin\Debug\ShopBridgeDB.dacpac
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDB\bin\Debug\ShopBridgeDB.dll
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDB\bin\Debug\ShopBridgeDB.pdb
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDB\obj\Debug\Model.xml
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDB\obj\Debug\refactor.xml
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDB\obj\Debug\postdeploy.sql
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDB\obj\Debug\predeploy.sql
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDB\obj\Debug\ShopBridgeDB.dll
+C:\Users\Shruti\Desktop\ThinkBridgeSoft\ShopBridgeDB\obj\Debug\ShopBridgeDB.pdb
